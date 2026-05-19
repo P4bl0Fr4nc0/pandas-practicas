@@ -1,0 +1,301 @@
+id_venta,fecha,cliente,ciudad,producto,categoria,precio_unitario,cantidad,descuento_pct,total_venta,metodo_pago,satisfaccion_cliente
+1,2024-04-24,Citlali Natalia Partida,Guadalajara,Mouse,Accesorios,1939,5,5,9210.25,Efectivo,1
+2,2024-01-16,Víctor Amanda Ponce Pineda,CDMX,Disco SSD,Almacenamiento,5997,7,0,41979.0,Tarjeta,2
+3,2024-08-02,Lorena Pablo Jiménez,Guadalajara,Disco SSD,Almacenamiento,2039,4,20,6524.8,Transferencia,5
+4,2024-06-23,Tomás Caridad Miranda,Monterrey,Auriculares,Audio,725,3,15,1848.75,Tarjeta,2
+5,2024-02-19,Carolina Juana Valdez Vargas,Monterrey,Impresora,Oficina,6998,2,15,11896.6,Transferencia,5
+6,2024-03-04,Concepción Pamela Barreto,Puebla,Auriculares,Audio,3147,8,20,20140.8,Tarjeta,5
+7,2024-01-24,Francisca Felipe Cornejo Puente,Guadalajara,Auriculares,Audio,24000,4,0,96000.0,Transferencia,1
+8,2024-08-20,Francisco Anel Salgado Leyva,Monterrey,Monitor,Computo,6919,7,10,43589.7,Tarjeta,3
+9,2024-11-07,Martín Zepeda,Guadalajara,Impresora,Oficina,14030,5,0,70150.0,Efectivo,2
+10,2024-11-23,Ing. Lorenzo Lomeli,Querétaro,Teclado,Accesorios,30594,7,10,192742.2,Tarjeta,3
+11,2024-07-24,Soledad Porfirio Márquez,Monterrey,Laptop,Computo,15310,1,10,13779.0,Tarjeta,2
+12,2024-07-21,José Emilio Wendolin Maestas Escalante,Puebla,Router,Redes,20922,4,15,71134.8,Tarjeta,3
+13,2024-08-07,Citlali Urrutia Limón,Querétaro,Teclado,Accesorios,16462,5,20,65848.0,Transferencia,3
+14,2024-01-25,Karla Arellano,CDMX,Monitor,Computo,9365,8,0,74920.0,Tarjeta,2
+15,2024-11-01,Laura Véliz,Puebla,Tablet,Moviles,4463,7,15,26554.85,Efectivo,3
+16,2024-05-16,Dr. Carla Verdugo,Monterrey,Disco SSD,Almacenamiento,1052,2,20,1683.2,Tarjeta,3
+17,2024-05-14,Elias Alta  Gracia Badillo Arellano,Querétaro,Tablet,Moviles,10665,8,0,85320.0,Tarjeta,5
+18,2024-07-10,Francisco Javier Chapa,Guadalajara,Mouse,Accesorios,19858,4,5,75460.4,Efectivo,5
+19,2024-02-27,Judith Raquel Noriega,Monterrey,Laptop,Computo,21543,8,0,172344.0,Transferencia,2
+20,2024-09-05,Victoria Agustín Galván Murillo,CDMX,Laptop,Computo,16085,2,0,32170.0,Efectivo,2
+21,2024-09-27,Isaac Raquel Gaytán,Querétaro,Teclado,Accesorios,31448,3,10,84909.6,Transferencia,2
+22,2024-12-09,Esther Elizondo,Monterrey,Disco SSD,Almacenamiento,13482,5,15,57298.5,Transferencia,5
+23,2024-02-02,Dr. Roberto Soria,Monterrey,Webcam,Video,8230,4,5,31274.0,Tarjeta,5
+24,2024-02-06,Lic. Leonor Franco,CDMX,Disco SSD,Almacenamiento,15380,4,0,61520.0,Tarjeta,1
+25,2024-05-01,Sara Carrera Rodríguez,Monterrey,Laptop,Computo,21954,2,20,35126.4,Efectivo,4
+26,2024-08-30,Elvia Clemente Zaragoza Gaona,Puebla,Monitor,Computo,8971,8,5,68179.6,Tarjeta,1
+27,2024-07-29,Mtro. Abel de la O,Puebla,Mouse,Accesorios,28549,6,15,145599.9,Efectivo,1
+28,2024-02-25,Ricardo Clemente Prieto,Guadalajara,Mouse,Accesorios,4272,7,10,26913.6,Tarjeta,2
+29,2024-04-03,Sr(a). Rebeca Oquendo,Monterrey,Disco SSD,Almacenamiento,29700,3,15,75735.0,Transferencia,2
+30,2024-11-29,Ing. Yuridia Miranda,Querétaro,Mouse,Accesorios,29341,2,0,58682.0,Tarjeta,1
+31,2024-09-03,María Luisa Espinal,Guadalajara,Monitor,Computo,11199,7,15,66634.05,Transferencia,1
+32,2024-05-15,Eduardo Homero Echeverría Candelaria,Puebla,Teclado,Accesorios,25136,1,15,21365.6,Transferencia,4
+33,2024-05-31,Sr(a). Daniela Sierra,Guadalajara,Disco SSD,Almacenamiento,32194,3,5,91752.9,Tarjeta,5
+34,2024-01-26,Andrés Irma Villaseñor,Querétaro,Disco SSD,Almacenamiento,4294,6,0,25764.0,Transferencia,5
+35,2024-02-11,Cornelio Anabel Alcántar de la Garza,Guadalajara,Disco SSD,Almacenamiento,10617,1,20,8493.6,Tarjeta,5
+36,2024-10-18,Jos Fidel Cervantes,Guadalajara,Mouse,Accesorios,15714,7,0,109998.0,Efectivo,5
+37,2024-10-16,Daniel Fernando Rivas Negrón,Querétaro,Laptop,Computo,5672,7,20,31763.2,Transferencia,3
+38,2024-07-21,María Luisa Montemayor,Guadalajara,Monitor,Computo,20890,4,10,75204.0,Efectivo,3
+39,2024-08-22,José Manuél Peralta Camacho,Querétaro,Webcam,Video,21020,2,0,42040.0,Efectivo,1
+40,2024-06-27,Leonel Jurado Villa,CDMX,Mouse,Accesorios,14269,5,5,67777.75,Tarjeta,3
+41,2024-12-26,Agustín Heredia,Monterrey,Auriculares,Audio,10638,8,20,68083.2,Efectivo,5
+42,2024-05-15,Lic. Jaime Barela,CDMX,Laptop,Computo,19920,2,5,37848.0,Tarjeta,5
+43,2024-04-17,Leonor María Eugenia Mercado Paredes,Monterrey,Teclado,Accesorios,18148,5,20,72592.0,Tarjeta,3
+44,2024-02-17,José Emilio Flórez,Puebla,Disco SSD,Almacenamiento,32316,5,0,161580.0,Transferencia,1
+45,2024-03-23,Horacio Valles Curiel,Puebla,Laptop,Computo,22159,3,10,59829.3,Efectivo,4
+46,2024-12-19,Mtro. Zacarías Vela,Guadalajara,Disco SSD,Almacenamiento,933,2,0,1866.0,Efectivo,1
+47,2024-01-22,Micaela Montoya Sáenz,Monterrey,Impresora,Oficina,10005,7,5,66533.25,Transferencia,1
+48,2024-06-30,Mitzy Madera Reyna,Querétaro,Impresora,Oficina,14067,4,0,56268.0,Transferencia,5
+49,2024-07-30,Cornelio Laura Carrera Quintanilla,CDMX,Teclado,Accesorios,15814,3,5,45069.9,Tarjeta,3
+50,2024-12-25,Germán Óscar Dávila Gallegos,CDMX,Tablet,Moviles,16563,5,5,78674.25,Transferencia,1
+51,2024-06-28,Eva Durán Tamayo,Monterrey,Webcam,Video,14877,4,15,50581.8,Tarjeta,2
+52,2024-05-22,Abel José Manuél Bonilla,CDMX,Laptop,Computo,12956,7,10,81622.8,Transferencia,3
+53,2024-02-29,Javier Armendáriz Mojica,Monterrey,Disco SSD,Almacenamiento,26493,6,0,158958.0,Tarjeta,5
+54,2024-08-10,Eloisa Tello,Monterrey,Auriculares,Audio,2807,2,20,4491.2,Efectivo,3
+55,2024-10-22,Ing. Silvia Gastélum,Guadalajara,Tablet,Moviles,33816,2,15,57487.2,Transferencia,1
+56,2024-08-08,Germán Mercado,CDMX,Tablet,Moviles,410,4,10,1476.0,Efectivo,3
+57,2024-09-16,Luz Nieto Gaytán,Monterrey,Router,Redes,20872,2,10,37569.6,Efectivo,4
+58,2024-03-06,Gabino Medrano de la Fuente,Guadalajara,Impresora,Oficina,26671,5,20,106684.0,Transferencia,4
+59,2024-01-01,Lic. Úrsula Montalvo,Monterrey,Teclado,Accesorios,20023,7,20,112128.8,Transferencia,2
+60,2024-08-14,Eloy Carlota Ozuna,Guadalajara,Tablet,Moviles,21418,8,15,145642.4,Efectivo,4
+61,2024-12-05,Lic. José Manuél Perales,Querétaro,Teclado,Accesorios,5857,5,20,23428.0,Transferencia,1
+62,2024-03-16,Lic. Leonor Pichardo,CDMX,Monitor,Computo,20643,4,5,78443.4,Tarjeta,2
+63,2024-11-18,Rubén Pedraza,Querétaro,Webcam,Video,5072,8,15,34489.6,Tarjeta,4
+64,2024-12-01,Lic. Estefanía Chavarría,CDMX,Webcam,Video,26491,4,5,100665.8,Tarjeta,4
+65,2024-10-12,Ruby Clara Treviño Segovia,Guadalajara,Monitor,Computo,11826,8,0,94608.0,Tarjeta,4
+66,2024-11-09,José Emilio Frida Apodaca,Querétaro,Teclado,Accesorios,30750,6,15,156825.0,Transferencia,5
+67,2024-05-12,Gonzalo Salvador Ávalos Carrión,Guadalajara,Webcam,Video,10730,8,15,72964.0,Efectivo,3
+68,2024-08-13,Mtro. Gustavo Ureña,CDMX,Disco SSD,Almacenamiento,32058,4,10,115408.8,Efectivo,3
+69,2024-10-03,Dalia Luisa Haro,CDMX,Monitor,Computo,18107,6,10,97777.8,Tarjeta,2
+70,2024-02-02,Carmen Bravo,Puebla,Monitor,Computo,25402,3,5,72395.7,Transferencia,3
+71,2024-04-15,Caridad Jorge Luis Arriaga Rolón,Puebla,Disco SSD,Almacenamiento,30834,7,0,215838.0,Transferencia,5
+72,2024-06-29,Darío Tomás Corrales,Monterrey,Laptop,Computo,25228,8,0,201824.0,Transferencia,4
+73,2024-05-19,Minerva Ana Luisa Mascareñas Saavedra,Puebla,Disco SSD,Almacenamiento,14753,8,5,112122.8,Transferencia,1
+74,2024-08-27,Ofelia Celia Cantú,Guadalajara,Tablet,Moviles,22328,7,5,148481.2,Efectivo,5
+75,2024-11-25,Sofía Reina Garibay Granado,Puebla,Laptop,Computo,26122,1,0,26122.0,Tarjeta,4
+76,2024-06-16,Jos Carla Colón Urrutia,Guadalajara,Teclado,Accesorios,3595,5,15,15278.75,Transferencia,3
+77,2024-05-09,David Marisol Sanabria Carrero,CDMX,Impresora,Oficina,25146,5,15,106870.5,Transferencia,1
+78,2024-11-28,Miguel Jonás García,CDMX,Disco SSD,Almacenamiento,3713,6,5,21164.1,Efectivo,1
+79,2024-11-14,Leonel Colón,Guadalajara,Laptop,Computo,16505,4,0,66020.0,Tarjeta,2
+80,2024-12-24,Ing. Pedro Sarabia,Monterrey,Webcam,Video,7796,4,15,26506.4,Transferencia,2
+81,2024-02-25,Sr(a). Antonia Valles,Querétaro,Router,Redes,7806,3,10,21076.2,Tarjeta,3
+82,2024-02-08,Perla Báez,Querétaro,Router,Redes,24896,7,5,165558.4,Efectivo,2
+83,2024-01-22,Verónica Eva Rivas Fajardo,Monterrey,Mouse,Accesorios,20064,2,20,32102.4,Efectivo,4
+84,2024-08-03,Uriel Tania Santacruz,Puebla,Impresora,Oficina,4819,6,0,28914.0,Tarjeta,4
+85,2024-03-31,Rosalia Ana María Pérez,Querétaro,Impresora,Oficina,30429,3,15,77593.95,Efectivo,3
+86,2024-10-30,Ramón Violeta Vázquez,Monterrey,Router,Redes,31986,8,15,217504.8,Transferencia,2
+87,2024-08-25,Lorenzo Bustamante,Querétaro,Mouse,Accesorios,18579,8,5,141200.4,Efectivo,4
+88,2024-04-03,Dr. Rodolfo Núñez,Puebla,Impresora,Oficina,2180,8,10,15696.0,Tarjeta,3
+89,2024-12-25,Cristal Nicolás Ceja Gaitán,Monterrey,Auriculares,Audio,22604,5,20,90416.0,Efectivo,1
+90,2024-07-27,Santiago Rolando Urías Gaona,Puebla,Disco SSD,Almacenamiento,12821,2,5,24359.9,Efectivo,2
+91,2024-02-17,María Cristina Ortega,Monterrey,Webcam,Video,32466,8,0,259728.0,Tarjeta,4
+92,2024-10-10,Emilia Regalado,Querétaro,Monitor,Computo,20367,6,15,103871.7,Transferencia,4
+93,2024-05-18,Ariadna Delia Ocasio,Monterrey,Disco SSD,Almacenamiento,21978,6,15,112087.8,Transferencia,2
+94,2024-10-01,Felipe Marisol Armas,Guadalajara,Mouse,Accesorios,12921,6,0,77526.0,Tarjeta,2
+95,2024-04-09,Martha Solorio Escobar,Monterrey,Webcam,Video,18420,5,0,92100.0,Tarjeta,3
+96,2024-03-05,Serafín Lemus Rentería,Monterrey,Teclado,Accesorios,20109,1,20,16087.2,Tarjeta,1
+97,2024-02-22,Agustín Batista Marroquín,CDMX,Disco SSD,Almacenamiento,19445,3,15,49584.75,Efectivo,3
+98,2024-04-04,Isabela Gracia Oquendo,CDMX,Webcam,Video,31673,8,10,228045.6,Transferencia,4
+99,2024-02-07,Esther Almonte Lucero,Querétaro,Mouse,Accesorios,4582,7,15,27262.9,Efectivo,1
+100,2024-05-07,José María Rosa Lara Mojica,CDMX,Teclado,Accesorios,10077,5,0,50385.0,Efectivo,4
+101,2024-08-14,Renato Miguel Cervántez Quesada,Monterrey,Router,Redes,15090,7,15,89785.5,Efectivo,4
+102,2024-11-16,Isabela Samuel Quesada,Guadalajara,Auriculares,Audio,4247,2,5,8069.3,Transferencia,1
+103,2024-02-08,Liliana Arevalo Preciado,Guadalajara,Teclado,Accesorios,16019,3,20,38445.6,Tarjeta,4
+104,2024-04-28,Arcelia Gaona Carrera,Monterrey,Webcam,Video,31096,5,0,155480.0,Efectivo,3
+105,2024-11-16,Nicolás Berríos Marroquín,Querétaro,Webcam,Video,4964,4,10,17870.4,Efectivo,2
+106,2024-05-16,Victoria Brito,Guadalajara,Tablet,Moviles,7821,4,5,29719.8,Tarjeta,1
+107,2024-03-04,Lic. Ana Roldán,Puebla,Teclado,Accesorios,20459,5,15,86950.75,Efectivo,3
+108,2024-02-11,René Frías Carranza,Querétaro,Tablet,Moviles,18141,8,15,123358.8,Tarjeta,4
+109,2024-04-27,Adán Alonso de León Montenegro,Querétaro,Impresora,Oficina,16708,1,0,16708.0,Efectivo,1
+110,2024-09-22,Ing. Mario Medina,Puebla,Auriculares,Audio,2936,3,15,7486.8,Transferencia,2
+111,2024-08-28,Lic. Porfirio Jaramillo,Monterrey,Router,Redes,28866,8,0,230928.0,Transferencia,3
+112,2024-07-29,Ana María Porras Lira,Puebla,Impresora,Oficina,7155,3,10,19318.5,Transferencia,4
+113,2024-06-10,Luisa Bonilla,Monterrey,Disco SSD,Almacenamiento,2704,8,0,21632.0,Transferencia,1
+114,2024-08-24,Jacobo Montaño,Puebla,Tablet,Moviles,34024,1,20,27219.2,Tarjeta,2
+115,2024-01-27,José Luis Manzanares Zamora,Guadalajara,Disco SSD,Almacenamiento,24009,8,15,163261.2,Transferencia,5
+116,2024-03-03,Judith Sergio Echeverría,CDMX,Teclado,Accesorios,19176,8,15,130396.8,Efectivo,5
+117,2024-01-08,Miguel Micaela Archuleta López,Querétaro,Monitor,Computo,10679,5,20,42716.0,Transferencia,1
+118,2024-11-27,Laura Arenas,Guadalajara,Monitor,Computo,7735,8,0,61880.0,Transferencia,3
+119,2024-08-29,Gilberto Valenzuela Pineda,Guadalajara,Disco SSD,Almacenamiento,18219,7,15,108403.05,Transferencia,5
+120,2024-09-17,Pilar Téllez Cuellar,Guadalajara,Teclado,Accesorios,25438,4,20,81401.6,Tarjeta,3
+121,2024-05-24,Lic. David Cabrera,Monterrey,Tablet,Moviles,22574,5,0,112870.0,Efectivo,5
+122,2024-09-04,Mtro. Yolanda Nájera,Monterrey,Webcam,Video,10038,8,20,64243.2,Transferencia,5
+123,2024-04-06,Tania Helena Zavala,Guadalajara,Disco SSD,Almacenamiento,25020,8,10,180144.0,Efectivo,4
+124,2024-08-30,Gerardo Uribe,Puebla,Monitor,Computo,27220,1,10,24498.0,Transferencia,2
+125,2024-10-29,Mtro. Esperanza Caraballo,Monterrey,Webcam,Video,2726,3,20,6542.4,Tarjeta,4
+126,2024-03-14,Sofía Molina,Puebla,Mouse,Accesorios,34768,8,0,278144.0,Efectivo,2
+127,2024-11-15,Luis Miguel Elena Solorio,Puebla,Mouse,Accesorios,31068,5,10,139806.0,Efectivo,1
+128,2024-10-04,Santiago Humberto Cervantes,CDMX,Impresora,Oficina,25204,6,15,128540.4,Efectivo,1
+129,2024-08-10,Teresa Wendolin Menchaca Saavedra,CDMX,Monitor,Computo,19133,4,0,76532.0,Efectivo,1
+130,2024-01-24,Diana Noelia de Jesús Pedraza,Monterrey,Webcam,Video,11202,5,0,56010.0,Tarjeta,3
+131,2024-05-05,Ana Luisa Eugenio Aragón,Querétaro,Impresora,Oficina,24865,7,5,165352.25,Transferencia,5
+132,2024-11-08,Espartaco Omar Razo,Puebla,Teclado,Accesorios,11440,3,0,34320.0,Efectivo,2
+133,2024-11-22,Paola Bustos,Monterrey,Webcam,Video,9679,4,15,32908.6,Transferencia,3
+134,2024-03-21,María Teresa Angulo Cano,CDMX,Laptop,Computo,30790,5,20,123160.0,Transferencia,3
+135,2024-08-21,Mtro. Juan Carlos Rendón,Monterrey,Router,Redes,19905,7,10,125401.5,Tarjeta,4
+136,2024-10-19,Cristal Emilia Lebrón Báez,Monterrey,Webcam,Video,7289,4,15,24782.6,Efectivo,3
+137,2024-01-05,Yolanda Gonzalo Toledo Cazares,Querétaro,Auriculares,Audio,1737,7,10,10943.1,Efectivo,1
+138,2024-11-06,Dr. Jerónimo Urías,Monterrey,Router,Redes,32853,5,5,156051.75,Tarjeta,2
+139,2024-11-17,José Luis Lorenzo Alva,CDMX,Router,Redes,16725,3,0,50175.0,Transferencia,4
+140,2024-05-31,Sr(a). Vicente Polanco,Monterrey,Laptop,Computo,24211,3,0,72633.0,Efectivo,4
+141,2024-07-06,Ana Josefina Nevárez Madrid,Querétaro,Teclado,Accesorios,13459,3,20,32301.6,Efectivo,3
+142,2024-06-22,Olga Juan Benítez Sauceda,CDMX,Teclado,Accesorios,17140,8,10,123408.0,Transferencia,1
+143,2024-07-06,Dr. René Torres,CDMX,Teclado,Accesorios,15085,7,20,84476.0,Transferencia,1
+144,2024-12-10,Alta  Gracia Rodolfo Santana Puente,Monterrey,Auriculares,Audio,8399,8,10,60472.8,Efectivo,4
+145,2024-01-13,Angélica Humberto Ramos,Querétaro,Impresora,Oficina,7400,4,15,25160.0,Efectivo,3
+146,2024-12-24,Antonio Ana Pizarro Luna,Monterrey,Router,Redes,14807,2,15,25171.9,Efectivo,4
+147,2024-06-04,Elisa Aguayo León,Puebla,Mouse,Accesorios,9460,1,0,9460.0,Tarjeta,1
+148,2024-07-08,Joaquín Pacheco,Querétaro,Monitor,Computo,9190,7,15,54680.5,Transferencia,5
+149,2024-11-11,Isabel Delgadillo Sierra,Puebla,Teclado,Accesorios,27489,2,15,46731.3,Transferencia,1
+150,2024-04-30,Zeferino Lucía Noriega,Monterrey,Impresora,Oficina,14538,8,15,98858.4,Tarjeta,3
+151,2024-05-21,Mauricio Leticia Navarro,Guadalajara,Disco SSD,Almacenamiento,23806,1,15,20235.1,Tarjeta,4
+152,2024-06-19,Ana Luisa Gabriel Ruelas,Guadalajara,Mouse,Accesorios,14200,1,0,14200.0,Tarjeta,5
+153,2024-04-20,Ing. Teresa Alonso,Guadalajara,Monitor,Computo,4796,4,20,15347.2,Transferencia,2
+154,2024-03-07,Zoé Elvira Olivárez,Querétaro,Router,Redes,485,5,5,2303.75,Transferencia,2
+155,2024-07-02,Estefanía Toledo,Guadalajara,Mouse,Accesorios,1989,3,0,5967.0,Efectivo,3
+156,2024-03-05,Salma Pamela Montañez,Puebla,Laptop,Computo,11719,5,0,58595.0,Efectivo,1
+157,2024-09-19,Gerardo Leiva Chacón,Querétaro,Mouse,Accesorios,31511,8,10,226879.2,Tarjeta,4
+158,2024-06-03,Gabriel Angulo,Puebla,Disco SSD,Almacenamiento,14819,1,20,11855.2,Efectivo,1
+159,2024-12-17,Adela Zoé Rodarte,CDMX,Laptop,Computo,31690,7,15,188555.5,Transferencia,4
+160,2024-03-16,Ing. Ana María Torres,CDMX,Mouse,Accesorios,5594,6,20,26851.2,Tarjeta,3
+161,2024-09-28,Mónica Barbara Feliciano Griego,Monterrey,Router,Redes,21611,7,20,121021.6,Transferencia,5
+162,2024-12-01,Gabriel Quiroz,Querétaro,Router,Redes,28493,2,0,56986.0,Efectivo,2
+163,2024-06-22,Darío Godoy,Puebla,Tablet,Moviles,29893,4,15,101636.2,Transferencia,4
+164,2024-12-06,Natividad Ozuna,Monterrey,Mouse,Accesorios,20783,7,10,130932.9,Transferencia,2
+165,2024-02-17,Mario Tomás Puente Núñez,Puebla,Webcam,Video,4699,2,0,9398.0,Tarjeta,3
+166,2024-07-29,Laura Israel Armenta,Monterrey,Teclado,Accesorios,4230,6,0,25380.0,Efectivo,4
+167,2024-02-23,Ana Ilse Jimínez,Querétaro,Laptop,Computo,19150,5,10,86175.0,Efectivo,2
+168,2024-06-28,Trinidad Graciela Barreto,Querétaro,Teclado,Accesorios,31900,4,0,127600.0,Transferencia,1
+169,2024-11-14,Dr. María Luisa Aguilar,Querétaro,Auriculares,Audio,15121,7,20,84677.6,Efectivo,5
+170,2024-05-19,Leonor Sandra Rubio Cadena,Monterrey,Laptop,Computo,17827,1,5,16935.65,Transferencia,3
+171,2024-12-02,Jacinto Trinidad Gastélum,Puebla,Laptop,Computo,12188,3,20,29251.2,Tarjeta,2
+172,2024-08-02,Francisco Leonor Briones,Puebla,Laptop,Computo,6313,4,15,21464.2,Transferencia,2
+173,2024-11-01,Eva Arredondo,CDMX,Impresora,Oficina,20723,6,20,99470.4,Tarjeta,2
+174,2024-08-14,Jorge Luis Olga Carrero Santiago,Puebla,Teclado,Accesorios,3561,2,10,6409.8,Transferencia,5
+175,2024-09-19,Hernán Catalina Montenegro,CDMX,Webcam,Video,27443,5,5,130354.25,Transferencia,4
+176,2024-12-07,Fabiola Otero,Monterrey,Mouse,Accesorios,18862,8,20,120716.8,Tarjeta,2
+177,2024-06-03,Itzel Oquendo de León,Guadalajara,Tablet,Moviles,3890,1,5,3695.5,Tarjeta,3
+178,2024-09-11,José Manuél Durán Reynoso,Puebla,Auriculares,Audio,21803,2,0,43606.0,Tarjeta,2
+179,2024-07-22,Benjamín Godínez Montoya,CDMX,Tablet,Moviles,15380,6,0,92280.0,Transferencia,1
+180,2024-08-07,Ing. Alfonso Vanegas,Querétaro,Webcam,Video,5402,6,20,25929.6,Transferencia,4
+181,2024-06-15,Georgina Hermelinda Grijalva,Guadalajara,Auriculares,Audio,7848,7,0,54936.0,Efectivo,4
+182,2024-05-04,José Manuél Rebeca Apodaca,Puebla,Impresora,Oficina,6075,7,0,42525.0,Efectivo,4
+183,2024-06-22,Lucas Rufino Merino Flores,Guadalajara,Disco SSD,Almacenamiento,5454,7,10,34360.2,Transferencia,2
+184,2024-09-18,Dr. Adalberto Puga,Guadalajara,Mouse,Accesorios,33755,2,20,54008.0,Transferencia,3
+185,2024-05-11,Concepción Evelio Noriega,Guadalajara,Teclado,Accesorios,15784,2,5,29989.6,Tarjeta,5
+186,2024-08-25,Sr(a). Arturo Gaona,Querétaro,Teclado,Accesorios,5238,3,15,13356.9,Efectivo,4
+187,2024-08-13,Dr. Karina Bañuelos,CDMX,Router,Redes,21481,6,5,122441.7,Transferencia,4
+188,2024-09-16,Dr. Homero Pulido,CDMX,Auriculares,Audio,18301,1,10,16470.9,Transferencia,4
+189,2024-05-26,Eugenia Aguilar Nieto,CDMX,Webcam,Video,2764,1,10,2487.6,Efectivo,1
+190,2024-10-24,Mauro Leonardo Rendón,Querétaro,Router,Redes,33531,7,15,199509.45,Efectivo,1
+191,2024-08-31,Reina Alfredo Treviño,Querétaro,Webcam,Video,12636,6,20,60652.8,Tarjeta,1
+192,2024-09-15,Germán Rufino Hurtado,Guadalajara,Webcam,Video,7083,6,0,42498.0,Tarjeta,2
+193,2024-07-09,Soledad Abraham Villa Montalvo,Monterrey,Webcam,Video,29097,3,10,78561.9,Transferencia,4
+194,2024-06-17,Oswaldo Caballero,CDMX,Impresora,Oficina,3731,6,0,22386.0,Efectivo,4
+195,2024-02-11,Ana Luisa Emilio Rico,Querétaro,Auriculares,Audio,16814,3,10,45397.8,Efectivo,2
+196,2024-10-31,Dr. Bruno León,CDMX,Impresora,Oficina,20631,7,5,137196.15,Transferencia,5
+197,2024-02-17,Diego Julio César Solano,Puebla,Tablet,Moviles,21827,3,20,52384.8,Efectivo,3
+198,2024-04-19,Federico Ariadna Pérez Jáquez,Monterrey,Laptop,Computo,24063,5,5,114299.25,Transferencia,2
+199,2024-05-31,María Cristina Felix Razo,CDMX,Monitor,Computo,9315,3,0,27945.0,Efectivo,5
+200,2024-03-08,Daniela Soliz Bustos,Querétaro,Disco SSD,Almacenamiento,2773,6,20,13310.4,Transferencia,2
+201,2024-01-23,Paulina Negrete,Puebla,Teclado,Accesorios,12151,3,15,30985.05,Transferencia,2
+202,2024-09-30,Ing. Ivonne Peralta,Guadalajara,Webcam,Video,18973,8,5,144194.8,Transferencia,4
+203,2024-05-24,Jesús Canales Alonzo,Puebla,Monitor,Computo,24406,8,15,165960.8,Efectivo,5
+204,2024-03-11,Camilo Guadalupe Bustos,Monterrey,Tablet,Moviles,10920,4,20,34944.0,Tarjeta,4
+205,2024-02-12,Gustavo Almanza Castellanos,Guadalajara,Impresora,Oficina,7023,2,10,12641.4,Transferencia,4
+206,2024-04-23,Nadia Chávez,Puebla,Disco SSD,Almacenamiento,9956,7,0,69692.0,Transferencia,1
+207,2024-07-10,Inés Andrés Salgado Lebrón,Guadalajara,Tablet,Moviles,3790,7,20,21224.0,Transferencia,1
+208,2024-02-20,Germán Javier Matos Barajas,Monterrey,Impresora,Oficina,15015,1,10,13513.5,Tarjeta,2
+209,2024-12-27,Mónica José Eduardo Ureña,Puebla,Laptop,Computo,19100,8,5,145160.0,Transferencia,5
+210,2024-04-20,Georgina Juan Carlos Jimínez,Guadalajara,Laptop,Computo,5492,1,10,4942.8,Efectivo,5
+211,2024-05-01,Eduardo Bonilla,Monterrey,Disco SSD,Almacenamiento,28038,2,10,50468.4,Tarjeta,1
+212,2024-02-26,Mtro. Paulina Gallegos,Puebla,Monitor,Computo,27813,8,0,222504.0,Efectivo,5
+213,2024-05-29,Citlali Tomás Quintana,Puebla,Laptop,Computo,34075,4,5,129485.0,Tarjeta,5
+214,2024-12-06,Conchita Hilda Canales,CDMX,Impresora,Oficina,16065,7,5,106832.25,Efectivo,3
+215,2024-08-28,Miriam Luevano,CDMX,Mouse,Accesorios,34775,1,15,29558.75,Efectivo,4
+216,2024-02-04,Alonso Florencia Serna,Monterrey,Impresora,Oficina,16923,1,10,15230.7,Tarjeta,1
+217,2024-06-29,Cornelio Marisela Meléndez,Querétaro,Router,Redes,22091,3,0,66273.0,Transferencia,2
+218,2024-02-02,Manuel Amador,Puebla,Webcam,Video,31661,3,5,90233.85,Tarjeta,3
+219,2024-06-10,Jonás Amelia de la Crúz,Monterrey,Monitor,Computo,3170,4,0,12680.0,Efectivo,4
+220,2024-11-27,Felix Chávez Cruz,Guadalajara,Disco SSD,Almacenamiento,31324,5,0,156620.0,Transferencia,3
+221,2024-07-07,Eloisa Páez Perea,Puebla,Laptop,Computo,22053,5,0,110265.0,Transferencia,4
+222,2024-12-20,Darío Ofelia Llamas Jasso,Puebla,Tablet,Moviles,22519,3,15,57423.45,Transferencia,5
+223,2024-08-08,Elvira Gonzales Vergara,Querétaro,Auriculares,Audio,5714,7,0,39998.0,Tarjeta,5
+224,2024-06-16,Marisol Rosa Acosta Córdova,Monterrey,Auriculares,Audio,21350,2,0,42700.0,Transferencia,4
+225,2024-06-28,María Elena Leonardo Varela Jaime,Puebla,Router,Redes,28225,3,15,71973.75,Tarjeta,3
+226,2024-02-08,Ignacio Concepción Soliz Partida,Puebla,Router,Redes,28804,5,0,144020.0,Transferencia,5
+227,2024-12-13,Uriel Covarrubias,Puebla,Teclado,Accesorios,2340,3,20,5616.0,Tarjeta,2
+228,2024-07-15,Luisa Esteban Olvera Holguín,Querétaro,Mouse,Accesorios,15766,6,10,85136.4,Tarjeta,5
+229,2024-08-15,Mitzy Matos,CDMX,Teclado,Accesorios,29786,6,10,160844.4,Efectivo,2
+230,2024-11-28,María José Rodríguez,Monterrey,Disco SSD,Almacenamiento,24348,7,10,153392.4,Tarjeta,1
+231,2024-07-17,Dr. Diana Villegas,Querétaro,Laptop,Computo,12492,8,20,79948.8,Tarjeta,3
+232,2024-05-26,Daniel Oquendo,Puebla,Auriculares,Audio,29546,4,20,94547.2,Tarjeta,1
+233,2024-12-31,José Manuél Abigail Crespo,Puebla,Teclado,Accesorios,5153,8,5,39162.8,Tarjeta,3
+234,2024-03-21,Mtro. Estela Zedillo,Guadalajara,Impresora,Oficina,4555,5,10,20497.5,Transferencia,5
+235,2024-05-01,Esmeralda José Cavazos,Puebla,Monitor,Computo,8253,4,5,31361.4,Tarjeta,3
+236,2024-03-07,Inés Jáquez Palomo,Querétaro,Disco SSD,Almacenamiento,24476,8,20,156646.4,Tarjeta,1
+237,2024-07-29,Ing. Daniel Quesada,Puebla,Auriculares,Audio,26393,8,20,168915.2,Efectivo,1
+238,2024-08-26,Patricio Casanova,Querétaro,Teclado,Accesorios,21076,2,15,35829.2,Transferencia,2
+239,2024-09-14,Adalberto Rubén Moreno,CDMX,Disco SSD,Almacenamiento,12225,3,15,31173.75,Tarjeta,5
+240,2024-06-14,Dr. José Eduardo Rubio,Guadalajara,Teclado,Accesorios,20231,3,5,57658.35,Transferencia,5
+241,2024-11-21,Jorge Lerma Montez,Querétaro,Auriculares,Audio,5468,5,5,25973.0,Transferencia,2
+242,2024-10-24,César Treviño,Guadalajara,Auriculares,Audio,6422,3,20,15412.8,Tarjeta,5
+243,2024-02-11,Norma Hernán Barreto Magaña,CDMX,Router,Redes,22426,1,0,22426.0,Efectivo,5
+244,2024-11-23,Ruby Gómez Rivero,CDMX,Auriculares,Audio,14115,7,20,79044.0,Transferencia,5
+245,2024-12-16,Lic. Andrés Valverde,Puebla,Auriculares,Audio,20098,8,5,152744.8,Transferencia,4
+246,2024-07-31,Estefanía Fuentes,Puebla,Mouse,Accesorios,4226,3,15,10776.3,Transferencia,2
+247,2024-06-25,Claudio Carmona Tamez,Puebla,Impresora,Oficina,9715,6,10,52461.0,Tarjeta,3
+248,2024-08-26,Ing. Raquel Reynoso,CDMX,Disco SSD,Almacenamiento,7258,6,5,41370.6,Transferencia,4
+249,2024-05-28,Lucía Venegas,Puebla,Monitor,Computo,9532,2,0,19064.0,Efectivo,4
+250,2024-06-09,Linda Graciela Gamboa Alvarez,Guadalajara,Monitor,Computo,10766,6,20,51676.8,Tarjeta,4
+251,2024-09-11,Enrique Noemí Altamirano Magaña,CDMX,Disco SSD,Almacenamiento,30893,8,10,222429.6,Tarjeta,4
+252,2024-10-25,María del Carmen Delgado Calvillo,Monterrey,Disco SSD,Almacenamiento,30265,4,5,115007.0,Tarjeta,1
+253,2024-10-01,Octavio Quintero,CDMX,Auriculares,Audio,32733,8,10,235677.6,Tarjeta,4
+254,2024-07-06,Mtro. Esparta Ruiz,CDMX,Teclado,Accesorios,17632,6,15,89923.2,Transferencia,1
+255,2024-05-27,Leonardo Jaqueline Mondragón Toro,CDMX,Router,Redes,13056,6,20,62668.8,Transferencia,5
+256,2024-02-19,Fabiola Hernán Piña Hinojosa,Puebla,Webcam,Video,18631,2,5,35398.9,Transferencia,3
+257,2024-11-04,Eugenia Hilda Robledo Chávez,Querétaro,Disco SSD,Almacenamiento,24260,3,5,69141.0,Transferencia,5
+258,2024-12-31,Marisela Granados Lugo,Monterrey,Laptop,Computo,3269,1,5,3105.55,Transferencia,5
+259,2024-11-09,Agustín Briseño,Monterrey,Webcam,Video,10060,3,10,27162.0,Tarjeta,4
+260,2024-09-17,Humberto Salas Soria,Querétaro,Router,Redes,19910,6,20,95568.0,Transferencia,5
+261,2024-06-18,Diana Adán Páez Salinas,CDMX,Auriculares,Audio,31422,1,10,28279.8,Transferencia,5
+262,2024-12-01,Jaqueline Duarte,Querétaro,Auriculares,Audio,2046,8,10,14731.2,Efectivo,2
+263,2024-11-18,José Manuél Terrazas Villa,Querétaro,Laptop,Computo,31786,3,20,76286.4,Transferencia,2
+264,2024-01-10,Mónica Jaqueline Sotelo,Puebla,Monitor,Computo,2369,2,5,4501.1,Transferencia,4
+265,2024-09-13,Martha Ruelas,Querétaro,Teclado,Accesorios,27363,4,15,93034.2,Transferencia,1
+266,2024-06-15,Daniel Blanco Lira,Puebla,Teclado,Accesorios,34292,4,20,109734.4,Efectivo,4
+267,2024-06-24,Socorro Cepeda,Querétaro,Impresora,Oficina,11649,8,20,74553.6,Transferencia,3
+268,2024-05-22,Genaro Ozuna Vega,Querétaro,Router,Redes,32031,4,5,121717.8,Transferencia,2
+269,2024-06-11,Dr. Gerónimo Núñez,Puebla,Auriculares,Audio,19240,4,15,65416.0,Transferencia,5
+270,2024-12-12,Lic. Camila Oquendo,Querétaro,Auriculares,Audio,19160,2,20,30656.0,Transferencia,4
+271,2024-05-27,Juana Porfirio Anaya Adame,CDMX,Impresora,Oficina,9899,5,0,49495.0,Transferencia,4
+272,2024-10-02,Dr. Sandra Cavazos,Monterrey,Auriculares,Audio,31696,4,5,120444.8,Efectivo,3
+273,2024-01-26,Sr(a). Ruby Melgar,Querétaro,Teclado,Accesorios,7458,4,5,28340.4,Tarjeta,2
+274,2024-08-29,Pilar Moya Nava,CDMX,Laptop,Computo,6866,7,10,43255.8,Efectivo,2
+275,2024-09-01,Sofía Estela Nava Lara,Guadalajara,Laptop,Computo,10650,7,15,63367.5,Transferencia,3
+276,2024-04-28,Gregorio Valdivia Puente,Querétaro,Auriculares,Audio,4177,2,20,6683.2,Efectivo,1
+277,2024-07-22,Guillermo Alfredo Ramón,Puebla,Teclado,Accesorios,27686,3,0,83058.0,Tarjeta,3
+278,2024-11-04,Eloisa Cristina Arteaga,CDMX,Laptop,Computo,907,5,20,3628.0,Transferencia,3
+279,2024-09-15,Daniel Emilia Domínguez,Puebla,Webcam,Video,34661,8,5,263423.6,Transferencia,2
+280,2024-11-27,Israel Valles Urrutia,Monterrey,Mouse,Accesorios,21971,3,15,56026.05,Efectivo,2
+281,2024-12-11,Ing. Santiago Jaimes,Guadalajara,Laptop,Computo,22392,5,20,89568.0,Tarjeta,5
+282,2024-07-24,Josefina Vanesa Lebrón,CDMX,Tablet,Moviles,28329,6,0,169974.0,Tarjeta,2
+283,2024-05-13,Silvia Roldán,Puebla,Webcam,Video,21507,4,0,86028.0,Tarjeta,4
+284,2024-10-20,Abel Vaca,CDMX,Auriculares,Audio,21902,5,20,87608.0,Transferencia,3
+285,2024-06-06,Lourdes Rendón,Guadalajara,Monitor,Computo,4371,2,15,7430.7,Transferencia,5
+286,2024-11-10,Mónica Camacho Lugo,Guadalajara,Auriculares,Audio,7994,5,10,35973.0,Tarjeta,2
+287,2024-07-10,Berta Pérez Castillo,Puebla,Webcam,Video,10339,8,20,66169.6,Efectivo,5
+288,2024-02-11,Julio César Arevalo,Querétaro,Webcam,Video,14613,4,20,46761.6,Transferencia,5
+289,2024-10-07,Dr. Gilberto Bravo,Querétaro,Impresora,Oficina,5418,2,0,10836.0,Tarjeta,5
+290,2024-09-23,Gerónimo Vera Nava,Puebla,Disco SSD,Almacenamiento,10120,3,10,27324.0,Tarjeta,2
+291,2024-08-16,Natividad Oswaldo Posada Fernández,CDMX,Router,Redes,32335,2,20,51736.0,Transferencia,2
+292,2024-01-30,Isabela Rosales Gálvez,Querétaro,Disco SSD,Almacenamiento,27525,8,20,176160.0,Transferencia,3
+293,2024-04-21,Rebeca Elisa Sanches Mateo,Querétaro,Laptop,Computo,26248,5,0,131240.0,Tarjeta,1
+294,2024-01-31,Timoteo Teresa Colunga,CDMX,Tablet,Moviles,22879,2,20,36606.4,Transferencia,1
+295,2024-11-24,David Soledad Narváez Correa,Puebla,Auriculares,Audio,27095,3,5,77220.75,Transferencia,4
+296,2024-12-15,Graciela Mayte Venegas,Querétaro,Webcam,Video,25039,7,0,175273.0,Tarjeta,3
+297,2024-03-06,Violeta Saavedra Bañuelos,Guadalajara,Mouse,Accesorios,11996,7,20,67177.6,Tarjeta,1
+298,2024-07-13,Dalia Villalpando Pedroza,Guadalajara,Auriculares,Audio,30643,7,20,171600.8,Tarjeta,4
+299,2024-02-27,Miguel Carlota Trejo Montoya,CDMX,Impresora,Oficina,10466,5,5,49713.5,Efectivo,4
+300,2024-02-04,Norma Montes,CDMX,Router,Redes,1325,4,5,5035.0,Efectivo,1
